@@ -6,7 +6,7 @@
 
 # \[!\[License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-# \[!\[Platform](https://img.shields.io/badge/Platform-WebGL%20%7C%20Windows%20%7C%20Mac-lightgrey)](https://github.com/yourusername/Unity-Systems-Showcase-2024)
+# \[!\[Platform](https://img.shields.io/badge/Platform-WebGL%20%7C%20Windows%20%7C%20Mac-lightgrey)](https://github.com/Reiimerich/Unity-Systems-Demo)
 
 # 
 
@@ -142,9 +142,9 @@
 
 # 1\. \*\*Clone the repository:\*\*
 
-# &nbsp;  ```bash
+#    ```bash
 
-# &nbsp;  git clone https://github.com/Reiimerich/Unity-Systems-Demo.git
+#    git clone https://github.com/Reiimerich/Unity-Systems-Demo.git
 
-# &nbsp;  cd Unity-Systems-Demo
+#    cd Unity-Systems-Demo
 
