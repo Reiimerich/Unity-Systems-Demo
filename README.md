@@ -2,11 +2,11 @@
 
 # 
 
-# [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+# [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![Platform](https://img.shields.io/badge/Platform-WebGL%20%7C%20Windows%20%7C%20Mac-lightgrey)](https://github.com/Reiimerich/Unity-Systems-Demo)
 
-# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# 
 
-# \[!\[Platform](https://img.shields.io/badge/Platform-WebGL%20%7C%20Windows%20%7C%20Mac-lightgrey)](https://github.com/Reiimerich/Unity-Systems-Demo)
+# 
 
 # 
 
